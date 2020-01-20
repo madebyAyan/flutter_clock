@@ -10,3 +10,15 @@
 # Themes
 ## Rainy
 <img src='Resources/1.1.png' width='350'> <img src='Resources/1.2.png' width='350'>
+## Foggy
+<img src='Resources/2.1.png' width='350'> <img src='Resources/2.2.png' width='350'>
+## Cloudy
+<img src='Resources/3.1.png' width='350'> <img src='Resources/3.2.png' width='350'>
+## Snowy
+<img src='Resources/4.1.png' width='350'> <img src='Resources/4.2.png' width='350'>
+## Sunny
+<img src='Resources/5.1.png' width='350'> <img src='Resources/5.2.png' width='350'>
+## Thunderstorm
+<img src='Resources/6.1.png' width='350'> <img src='Resources/6.2.png' width='350'>
+## Windy
+<img src='Resources/7.1.png' width='350'> <img src='Resources/7.2.png' width='350'>
